@@ -1,2 +1,2 @@
-# AutoStartDesktop
-This is used for win10
+# Auto Login Software (win tested)
+
